@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NailSalonBooking.Core.Test/NailSalonBooking.Core.Tests.csproj" Id="df707491-ef8b-4046-824b-f43ca5fe939d" />
+  <Project Path="NailSalonBooking.Core/NailSalonBooking.Core.csproj" Id="6755933f-f433-4921-8712-097190b3db20" />
+  <Project Path="NailSalonBooking.Infrastructure/NailSalonBooking.Infrastructure.csproj" Id="d2ef03ed-d66f-4a91-82d9-2475d4c5c244" />
+  <Project Path="NailSalonBooking.Web/NailSalonBooking.Ui.csproj" Id="8f668fa7-c29a-4c66-887a-2b8421d732e8" />
+</Solution>
